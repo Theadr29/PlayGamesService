@@ -48,26 +48,27 @@ Siga os passos abaixo para implementar o Google Play Games Service em seu projet
 ![Imagem 5](image/5.png)
 
 
-6. **Na tela de criar as credencias selecione a API do Google Play Games Services e escolha entre dados do usuario ou dados do aplicativo (atualmente eu selecionei a opção dados do usuario) e clique em PROXIMA**:
+6. **Na tela de criar as credencias selecione a API do Google Play Games Services e escolha entre dados do usuário ou dados do aplicativo (atualmente eu selecionei a opção dados do usuário) e clique em PRÓXIMA**:
 
 
 ![Imagem 6](image/6.png)
 
 
-7. **Na tela dos escopo, eu não inseri nenhum neste projeto e é opcional adicionar algum escopo por isso pode clicar em SALVAR E CONTINUAR**:
+7. **Nesta tela é opcional adicionar algum escopo e neste projeto eu não adicionei nenhum, por isso pode clicar em SALVAR E CONTINUAR**:
  
 
 ![Imagem 7](image/7.png)
 
 
-8. **Na tela de criação das credenciais insira a sua chave SH1, se quiser use o seguinte comando no teminal do Android Studio ./gradlew signingReport**
+8. **Na tela de criação das credenciais insira a sua chave SH1, se quiser use o seguinte comando no terminal do Android Studio:
+   ./gradlew signingReport**
    copie o SH1 e clique em CRIAR:
 
 
 ![Imagem 8](image/8.png)
 
 
-9. **Aqui a sua credencial ja foi criada**:
+9. **Aqui a sua credencial já foi criada**:
 
 
 ![Imagem 9](image/9.png)
@@ -77,11 +78,12 @@ Siga os passos abaixo para implementar o Google Play Games Service em seu projet
     aceite os termos e clique em criar app (É IMPORTANTE SELECIONAR A OPÇÃO JOGO PARA ATIVAR O GOOGLE PLAY GAMES NO SEU PROJETO)**:
  - Acesse o Google Play Console https://play.google.com/console/developers/?pli=1
 
+
 ![Imagem 10](image/10.png)
 
 
 11. **Do lado esquerdo role o scrool até aparecer as opções do Google Play Games, que são os serviços relacionados a jogos do Google Play,
-    clique nesa opção e após isso, clique em configurações, ao lado esquerdo aparecera as opções de configuração, selecione a opção **Criar serviços relacionados a 
+    clique nessa opção e após isso, clique em configurações, ao lado esquerdo aparecera as opções de configuração, selecione a opção **Criar serviços relacionados a 
     jogos do Google Play**, seleciona o **projeto que você foi criou e configurou com a API do Google Play Games Services**, certamente o Play Console       
     identificará**:
 
@@ -89,7 +91,7 @@ Siga os passos abaixo para implementar o Google Play Games Service em seu projet
 ![Imagem 11](image/11.png)
 
 
-12. **Após ter concluido todas as outras etapas, AGORA SIM podemos copiar o id do app e inserir no projeto, copie-o**:
+12. **Após ter concluído  todas as outras etapas, AGORA SIM podemos copiar o id do app e inserir no projeto, copie-o**:
 
 
 ![Imagem 12](image/12.png)
@@ -102,9 +104,7 @@ Siga os passos abaixo para implementar o Google Play Games Service em seu projet
 ![Imagem 13](image/13.png)
 
 
-14. **Crie uma String no seu arquivo de strings que é exatamente o id do seu aplicativo, ja configurado para trabalhar com o Google Play Games Service, exemplo:
-    <string name="game_services_project_id">1079374394825</string>**:
-
+14. **Crie uma String no seu arquivo de strings que é exatamente o id do seu aplicativo, já configurado para trabalhar com o Google Play Games Service, exemplo: 1079374394825**:
 
 ![Imagem 14](image/14.png)
 
@@ -117,7 +117,7 @@ Siga os passos abaixo para implementar o Google Play Games Service em seu projet
 ![Imagem 15](image/15.png)
 
 
-16. **Agora é só copiar o codigo da minha Main Activity e implementar, deixa estrelinha no repositorio se  este tutorial te ajudou.**:
+16. **Agora é só copiar o código da minha Main Activity e implementar, deixa estrelinha no repositório se  este tutorial te ajudou.**:
 
 
 ![Imagem 16](image/16.png)
