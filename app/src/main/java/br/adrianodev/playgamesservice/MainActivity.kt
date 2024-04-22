@@ -133,6 +133,7 @@ class MainActivity : ComponentActivity() {
                                             }
                                     } else {
 
+
                                     }
                                 } else {
                                     // Lidar com falha ao verificar a autenticação
