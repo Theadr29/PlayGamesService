@@ -86,21 +86,38 @@ Siga os passos abaixo para implementar o Google Play Games Service em seu projet
 ![Imagem 11](image/11.png)
 
 
-12.
+12. **Após ter concluido todas as outras etapas, AGORA SIM podemos copiar o id do app e inserir no projeto, copie-o**:
 
 
 ![Imagem 12](image/12.png)
 
 
-13.
+13. **Agora vamos trabalhar no Android Studio para finalizar, primeiro insira  o implementation a seguir no grandle do seu projeto
+     implementation ("com.google.android.gms:play-services-games-v2:+") que é o SDK do Google Play Games Services**:
 
 
 ![Imagem 13](image/13.png)
 
 
-14.
+14. **Crie uma String no seu arquivo de strings que é exatamente o id do seu aplicativo, ja configurado para trabalhar com o Google Play Games Service, exemplo:
+    <string name="game_services_project_id">1079374394825</string>**:
 
 
 ![Imagem 14](image/14.png)
+
+
+15. **Insira o meta-data que define o ID do aplicativo para o Google Play Games no seu Android Manifest
+     <meta-data
+            android:name="com.google.android.gms.games.APP_ID"
+            android:value="@string/game_services_project_id"/>**:
+
+![Imagem 15](image/15.png)
+
+
+16. **Agora é só copiar o codigo da minha Main Activity e implementar, deixa estrelinha no repositorio se  este tutorial te ajudou.**:
+
+
+![Imagem 16](image/16.png)
+
 
 
