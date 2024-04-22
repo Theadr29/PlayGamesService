@@ -19,6 +19,7 @@ Siga os passos abaixo para implementar o Google Play Games Service em seu projet
 1. **Criar um Projeto no Google Cloud Platform (GCP)**:
    - Acesse o Console do GCP em [https://console.cloud.google.com/](https://console.cloud.google.com/)
    - Crie um novo projeto e anote o ID do projeto.
+
 ![Imagem 1](image/1.png)
 
 - Descrição da Imagem 2: Aqui está uma representação visual de ...
