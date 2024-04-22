@@ -21,7 +21,8 @@ Siga os passos abaixo para implementar o Google Play Games Service em seu projet
 
 ![Imagem 1](image/1.png)
 
-- Descrição da Imagem 2: Aqui está uma representação visual de ...
+2. **Clique em  APIS e serviços**:
+   - Acesse o Console do GCP em [https://console.cloud.google.com/](https://console.cloud.google.com/)
 
 ![Imagem 2](image/2.png)
 
