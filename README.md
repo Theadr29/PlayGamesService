@@ -117,7 +117,7 @@ Siga os passos abaixo para implementar o Google Play Games Service em seu projet
 ![Imagem 15](image/15.png)
 
 
-16. **Agora é só copiar o código da minha Main Activity e implementar, deixa estrelinha no repositório se  este tutorial te ajudou.**:
+16. **Agora é só copiar o código da minha Main Activity e implementar, deixa uma estrelinha no repositório se este tutorial te ajudou.**:
 
 
 ![Imagem 16](image/16.png)
