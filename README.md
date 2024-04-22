@@ -10,7 +10,7 @@ Bem-vindo ao meu incrível projeto! Aqui está uma visão geral das imagens incl
 2. ![Imagem 2](image/2.png)
    - Descrição da Imagem 2: Aqui está uma representação visual de ...
 
-3. ![Imagem 3](images/3.png)
+3. ![Imagem 3](image/3.png)
    - Descrição da Imagem 3: Nesta imagem, podemos ver ...
 
 4. ![Imagem 4](image/4.png)
