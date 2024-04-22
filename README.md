@@ -51,7 +51,7 @@ Siga os passos abaixo para implementar o Google Play Games Service em seu projet
 ![Imagem 6](image/6.png)
 
 
-7. **Na tela dos escorpos eu não inseri nenhum escopo neste projeto e é opcional adicionarr algum escorpo, clique em SALVAR E CONTINUAR**:
+7. **Na tela dos escopo, eu não inseri nenhum neste projeto e é opcional adicionar algum escopo por isso pode clicar em SALVAR E CONTINUAR**:
  
 
 ![Imagem 7](image/7.png)
@@ -70,16 +70,16 @@ Siga os passos abaixo para implementar o Google Play Games Service em seu projet
 ![Imagem 9](image/9.png)
 
 
-10. **Após configurar o seu projeto no Google Cloud vamos para o Google Play Console e na sua pagina inicial crie um app e selecione a opção **Jogo**
-    aceite os termos e clique em criar app (É IMPORTANTE SELECIONAR A OPÇÃO JOGO PARA ATIVAR O GOOGLE PLAY GAMES NO SEU PROJETO**:
+10. **Após configurar o seu projeto no Google Cloud nós vamos para o Google Play Console, na sua pagina inicial crie um app e selecione a opção **Jogo**
+    aceite os termos e clique em criar app (É IMPORTANTE SELECIONAR A OPÇÃO JOGO PARA ATIVAR O GOOGLE PLAY GAMES NO SEU PROJETO)**:
 
 
 ![Imagem 10](image/10.png)
 
 
-11. **Do lado esquerdo role o scrool até aparecer as opções do Google Play Games, que são que sãos serviços relacionados a jogos do Google Play,
-    clique nesa opção e após isso clique em configurações, ao lado esquerdo aparecera as opções de configuração, selecione a opção **Criar serviços relacionados a 
-    jogos do Google Play** seleciona o **projeto que você foi criou e configurou com a API do Google Play Games Services**, ceertamente o Play Console       
+11. **Do lado esquerdo role o scrool até aparecer as opções do Google Play Games, que são os serviços relacionados a jogos do Google Play,
+    clique nesa opção e após isso, clique em configurações, ao lado esquerdo aparecera as opções de configuração, selecione a opção **Criar serviços relacionados a 
+    jogos do Google Play**, seleciona o **projeto que você foi criou e configurou com a API do Google Play Games Services**, certamente o Play Console       
     identificará**:
 
 
