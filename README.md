@@ -2,7 +2,7 @@
 
 # Tutorial de Implementação do Google Play Games Service
 
-Este é um tutorial passo a passo sobre como implementar o Google Play Games Service em seu projeto.
+Este é um tutorial passo a passo sobre como implementar o Google Play Games Service em seu projeto Android.
 
 ## Referencias
 - https://developers.google.com/games/services/v1/android/quickstart?hl=pt-br
