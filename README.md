@@ -45,34 +45,57 @@ Siga os passos abaixo para implementar o Google Play Games Service em seu projet
 ![Imagem 5](image/5.png)
 
 
-6. **Na tela de criar as credenciasi selecione a API do Google Play Games Services e escolha entre dados do usuario ou dados do aplicativo (atualmente eu selecionei a opção dados do usuario)**:
+6. **Na tela de criar as credenciasi selecione a API do Google Play Games Services e escolha entre dados do usuario ou dados do aplicativo (atualmente eu selecionei a opção dados do usuario) e clike em PROXIMA**:
 
 
 ![Imagem 6](image/6.png)
 
 
-7. **Na tela de criar as credenciasi selecione a API do Google Play Games Services e escolha entre dados do usuario ou dados do aplicativo (atualmente eu selecionei a opção dados do usuario)**:
+7. **Na tela dos escorpos eu não inseri nenhum escopo neste projeto e é opcional adicionarr algum escorpo, clike em SALVAR E CONTINUAR**:
  
 
-   - Descrição da Imagem 7: Esta imagem destaca ...
+![Imagem 7](image/7.png)
 
-9. ![Imagem 8](image/8.png)
-   - Descrição da Imagem 8: Nesta imagem, podemos ver ...
 
-10. ![Imagem 9](image/9.png)
-   - Descrição da Imagem 9: Aqui está uma ilustração de ...
+8. **Na tela dos escorpos eu não inseri nenhum escopo neste projeto e é opcional adicionarr algum escorpo, clike em SALVAR E CONTINUAR**:
 
-11. ![Imagem 10](image/10.png)
-    - Descrição da Imagem 10: Esta imagem mostra ...
 
-12. ![Imagem 11](image/11.png)
-    - Descrição da Imagem 11: Nesta imagem, é destacado ...
+![Imagem 8](image/8.png)
 
-13. ![Imagem 12](image/12.png)
-    - Descrição da Imagem 12: Aqui está uma representação visual de ...
 
-14. ![Imagem 13](image/13.png)
-    - Descrição da Imagem 13: Esta imagem captura ...
+9. **Ap**:
 
-15. ![Imagem 14](image/14.png)
-    - Descrição da Imagem 14: Nesta imagem, é mostrado ...
+
+![Imagem 9](image/9.png)
+
+
+10.
+
+
+![Imagem 10](image/10.png)
+
+
+11.
+
+
+![Imagem 11](image/11.png)
+
+
+12.
+
+
+![Imagem 12](image/12.png)
+
+
+13.
+
+
+![Imagem 13](image/13.png)
+
+
+14.
+
+
+![Imagem 14](image/14.png)
+
+
