@@ -13,38 +13,38 @@ Bem-vindo ao meu incrível projeto! Aqui está uma visão geral das imagens incl
 3. ![Imagem 3](images/3.png)
    - Descrição da Imagem 3: Nesta imagem, podemos ver ...
 
-4. ![Imagem 4](images/4.png)
+4. ![Imagem 4](image/4.png)
    - Descrição da Imagem 4: Esta imagem ilustra ...
 
-5. ![Imagem 5](images/5.png)
+5. ![Imagem 5](image/5.png)
    - Descrição da Imagem 5: Nesta imagem, é mostrado ...
 
-6. ![Imagem 6](images/6.png)
+6. ![Imagem 6](image/6.png)
    - Descrição da Imagem 6: Aqui está uma captura de tela de ...
 
-7. ![Imagem 7](images/7.png)
+7. ![Imagem 7](image/7.png)
    - Descrição da Imagem 7: Esta imagem destaca ...
 
-8. ![Imagem 8](images/8.png)
+8. ![Imagem 8](image/8.png)
    - Descrição da Imagem 8: Nesta imagem, podemos ver ...
 
-9. ![Imagem 9](images/9.png)
+9. ![Imagem 9](image/9.png)
    - Descrição da Imagem 9: Aqui está uma ilustração de ...
 
-10. ![Imagem 10](images/10.png)
+10. ![Imagem 10](image/10.png)
     - Descrição da Imagem 10: Esta imagem mostra ...
 
-11. ![Imagem 11](images/11.png)
+11. ![Imagem 11](image/11.png)
     - Descrição da Imagem 11: Nesta imagem, é destacado ...
 
-12. ![Imagem 12](images/12.png)
+12. ![Imagem 12](image/12.png)
     - Descrição da Imagem 12: Aqui está uma representação visual de ...
 
-13. ![Imagem 13](images/13.png)
+13. ![Imagem 13](image/13.png)
     - Descrição da Imagem 13: Esta imagem captura ...
 
-14. ![Imagem 14](images/14.png)
+14. ![Imagem 14](image/14.png)
     - Descrição da Imagem 14: Nesta imagem, é mostrado ...
 
-15. ![Imagem 15](images/15.png)
+15. ![Imagem 15](image/15.png)
     - Descrição da Imagem 15: Aqui está uma captura de tela de ...
