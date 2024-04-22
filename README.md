@@ -72,7 +72,7 @@ Siga os passos abaixo para implementar o Google Play Games Service em seu projet
 
 10. **Após configurar o seu projeto no Google Cloud nós vamos para o Google Play Console, na sua pagina inicial crie um app e selecione a opção **Jogo**
     aceite os termos e clique em criar app (É IMPORTANTE SELECIONAR A OPÇÃO JOGO PARA ATIVAR O GOOGLE PLAY GAMES NO SEU PROJETO)**:
-
+ - Acesse o Google Play Console https://play.google.com/console/developers/?pli=1
 
 ![Imagem 10](image/10.png)
 
