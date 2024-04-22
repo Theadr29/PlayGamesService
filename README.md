@@ -4,10 +4,10 @@ Bem-vindo ao meu incrível projeto! Aqui está uma visão geral das imagens incl
 
 ## Imagens
 
-1. ![Imagem 1](images/1.png)
+1. ![Imagem 1](image/1.png)
    - Descrição da Imagem 1: Esta imagem mostra ...
 
-2. ![Imagem 2](images/2.png)
+2. ![Imagem 2](image/2.png)
    - Descrição da Imagem 2: Aqui está uma representação visual de ...
 
 3. ![Imagem 3](images/3.png)
@@ -38,4 +38,13 @@ Bem-vindo ao meu incrível projeto! Aqui está uma visão geral das imagens incl
     - Descrição da Imagem 11: Nesta imagem, é destacado ...
 
 12. ![Imagem 12](images/12.png)
-    - Descrição da Imagem 12: Aqui
+    - Descrição da Imagem 12: Aqui está uma representação visual de ...
+
+13. ![Imagem 13](images/13.png)
+    - Descrição da Imagem 13: Esta imagem captura ...
+
+14. ![Imagem 14](images/14.png)
+    - Descrição da Imagem 14: Nesta imagem, é mostrado ...
+
+15. ![Imagem 15](images/15.png)
+    - Descrição da Imagem 15: Aqui está uma captura de tela de ...
