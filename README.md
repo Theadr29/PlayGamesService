@@ -45,6 +45,3 @@ Bem-vindo ao meu incrível projeto! Aqui está uma visão geral das imagens incl
 
 14. ![Imagem 14](image/14.png)
     - Descrição da Imagem 14: Nesta imagem, é mostrado ...
-
-15. ![Imagem 15](image/15.png)
-    - Descrição da Imagem 15: Aqui está uma captura de tela de ...
