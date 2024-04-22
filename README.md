@@ -27,16 +27,19 @@ Siga os passos abaixo para implementar o Google Play Games Service em seu projet
 ![Imagem 2](image/2.png)
 
 
-2. **Clique em  APIS e serviços**:
+3. **Na opção de pesquisa, pesquise por Play Games**:
 
 
 ![Imagem 3](image/3.png)
 
-- Descrição da Imagem 4: Esta imagem ilustra ...
+
+4. **Na opção de pesquisa, pesquise por Play Games**:
+
 
 ![Imagem 4](image/4.png)
 
-5. ![Imagem 5](image/5.png)
+
+5. **Na opção de pesquisa, pesquise por Play Games**:
    - Descrição da Imagem 5: Nesta imagem, é mostrado ...
 
 6. ![Imagem 6](image/6.png)
