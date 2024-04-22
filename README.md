@@ -33,19 +33,22 @@ Siga os passos abaixo para implementar o Google Play Games Service em seu projet
 ![Imagem 3](image/3.png)
 
 
-4. **Ao chegar na pagina da API do Google Play Games Service, ative-a**:
+4. **Ao chegar na pagina detalhes da API do Google Play Games Service, ative-a**:
 
 
 ![Imagem 4](image/4.png)
 
 
-5. **Selecione a API do Google Play Games Services e escolha entre dados do usuario ou dados do aplicativo (atualmente eu selecionei a opção dados do usuario)**:
+5. **Após ativala clike em criar as credenciais do Google Play Games Services e escolha entre dados do usuario ou dados do aplicativo (atualmente eu selecionei a opção dados do usuario)**:
 
 
 ![Imagem 5](image/5.png)
 
 
-6. ![Imagem 6](image/6.png)
+6. **Selecione a API do Google Play Games Services e escolha entre dados do usuario ou dados do aplicativo (atualmente eu selecionei a opção dados do usuario)**:
+
+
+![Imagem 6](image/6.png)
    - Descrição da Imagem 6: Aqui está uma captura de tela de ...
 
 7. ![Imagem 7](image/7.png)
