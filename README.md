@@ -1,11 +1,11 @@
-# Meu Projeto
+# PlayGamesService
 
-Bem-vindo ao meu incrível projeto! Aqui está uma visão geral das imagens incluídas neste README:
+Este é um tutorial de como implementar o Google Play Games Service em um projeto!:
 
 ## Imagens
 
 1. ![Imagem 1](image/1.png)
-   - Descrição da Imagem 1: Esta imagem mostra ...
+   - Primeiro vamos criar um projeto no Google CLoud (o famoso GCP)
 
 2. ![Imagem 2](image/2.png)
    - Descrição da Imagem 2: Aqui está uma representação visual de ...
