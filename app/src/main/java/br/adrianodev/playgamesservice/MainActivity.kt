@@ -88,7 +88,6 @@ class MainActivity : ComponentActivity() {
                                         playersClient.getCurrentPlayer()
                                             .addOnCompleteListener { playerTask ->
                                                 if (playerTask.isSuccessful) {
-
                                                     // É imprescindivel que sequer a tentativa de usar os dados do usuario só comecem
                                                     // apenas se a task for concluida (ou ser feita com sucesso como no caso)
                                                     val player = playerTask.result
