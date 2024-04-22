@@ -7,8 +7,8 @@ Este é um tutorial de como implementar o Google Play Games Service em um projet
 - Primeiro vamos criar um projeto no Google CLoud (o famoso GCP)
 1. ![Imagem 1](image/1.png)
 
+- Descrição da Imagem 2: Aqui está uma representação visual de ...
 2. ![Imagem 2](image/2.png)
-   - Descrição da Imagem 2: Aqui está uma representação visual de ...
 
 3. ![Imagem 3](image/3.png)
    - Descrição da Imagem 3: Nesta imagem, podemos ver ...
